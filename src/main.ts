@@ -33,3 +33,5 @@ app.use(registerStore)
 // registerStore进行了pinia的安装及动态路由注册
 app.use(router)
 app.mount('#app')
+
+console.log('Hello coderRaptor')
