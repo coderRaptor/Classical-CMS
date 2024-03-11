@@ -1,0 +1,52 @@
+[
+  {
+    "children": [
+      { "id": 21, "url": "/main/analysis/overview", "name": "核心技术" },
+      { "id": 31, "url": "/main/analysis/dashboard", "name": "商品统计" }
+    ],
+    "icon": "el-icon-monitor",
+    "sort": 1,
+    "id": 38,
+    "name": "系统总览",
+    "type": 1,
+    "url": "/main/analysis"
+  },
+  {
+    "children": [
+      { "id": 23, "url": "/main/system/user", "name": "用户管理" },
+      { "id": 34, "url": "/main/system/department", "name": "部门管理" },
+      { "id": 45, "url": "/main/system/menu", "name": "菜单管理" },
+      { "id": 56, "url": "/main/system/role", "name": "角色管理" }
+    ],
+    "icon": "el-icon-setting",
+    "sort": 2,
+    "id": 1,
+    "name": "系统管理",
+    "type": 1,
+    "url": "/main/system"
+  },
+  {
+    "children": [
+      { "id": 29, "url": "/main/product/category", "name": "商品类别" },
+      { "id": 35, "url": "/main/product/goods", "name": "商品信息" }
+    ],
+    "icon": "el-icon-goods",
+    "sort": 3,
+    "id": 9,
+    "name": "商品中心",
+    "type": 1,
+    "url": "/main/product"
+  },
+  {
+    "children": [
+      { "id": 27, "url": "/main/story/chat", "name": "你的故事" },
+      { "id": 36, "url": "/main/story/list", "name": "故事列表" }
+    ],
+    "icon": "el-icon-chat-line-round",
+    "sort": 4,
+    "id": 41,
+    "name": "随便聊聊",
+    "type": 1,
+    "url": "/main/story"
+  }
+]

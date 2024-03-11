@@ -1,0 +1,14 @@
+[
+  {
+    "children": [
+      { "id": 21, "url": "/main/analysis/overview", "name": "核心技术" },
+      { "id": 31, "url": "/main/analysis/dashboard", "name": "商品统计" }
+    ],
+    "icon": "el-icon-monitor",
+    "id": 98,
+    "sort": 1,
+    "name": "系统总览",
+    "type": 1,
+    "url": "main/analysis"
+  }
+]
